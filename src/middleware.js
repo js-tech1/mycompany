@@ -1,4 +1,22 @@
 import { NextResponse } from 'next/server';
+import axios from 'axios';
+
+const sendKeepAliveRequest = async () => {
+  try {
+    const response = await axios.get(`https://js-tech1.onrender.com/`);
+    console.log(`Keep-alive request sent. Status: ${response.status}`);
+  } catch (error) {
+    console.error('Error sending keep-alive request:', error);
+  }
+};
+
+// Send keep-alive request every 30 seconds
+setInterval(sendKeepAliveRequest, 30 * 1000);
+
+// Immediately send the first request
+sendKeepAliveRequest();
+
+
 
 export function middleware(request) {
   const { pathname } = request.nextUrl;
