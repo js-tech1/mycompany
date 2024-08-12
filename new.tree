@@ -1,0 +1,127 @@
+├── _next
+│  ├── KQK8aqLSvbstpgtXBnvmU
+│  └── static
+│    ├── chunks
+│    │  ├── 173-ad690dbdd399cdd9.js
+│    │  ├── 197-5c8c2d21594eddb3.js
+│    │  ├── 23-090cead015cf99a3.js
+│    │  ├── 231-13245517247e10cd.js
+│    │  ├── 29-bf530d2b6541551f.js
+│    │  ├── 568-8f73d07fe924680f.js
+│    │  ├── app
+│    │  │  ├── _not-found
+│    │  │  │  └── page-c75e6b00a628ad06.js
+│    │  │  ├── about
+│    │  │  │  └── page-aa49b7184e2dc84e.js
+│    │  │  ├── blog
+│    │  │  │  └── page-b810493266d722ec.js
+│    │  │  ├── blog-details
+│    │  │  │  └── page-ca9972e7342d2860.js
+│    │  │  ├── blog-sidebar
+│    │  │  │  └── page-060049d767d3453e.js
+│    │  │  ├── contact
+│    │  │  │  └── page-c0f943d296799495.js
+│    │  │  ├── error
+│    │  │  │  └── page-76944506a0b8301a.js
+│    │  │  ├── layout-39b58940d81f488a.js
+│    │  │  ├── page-e36ffa297225a54e.js
+│    │  │  ├── signin
+│    │  │  │  └── page-2eca09d5b48666df.js
+│    │  │  └── signup
+│    │  │    └── page-050c3a2ad4d70fab.js
+│    │  ├── fd9d1056-550addd04e519552.js
+│    │  ├── framework-f66176bb897dc684.js
+│    │  ├── main-app-e4f90b5004cd8ebe.js
+│    │  ├── main-fa72d089b62a6b26.js
+│    │  ├── pages
+│    │  │  ├── _app-6a626577ffa902a4.js
+│    │  │  └── _error-1be831200e60c5c0.js
+│    │  ├── polyfills-78c92fac7aa8fdd8.js
+│    │  └── webpack-b7d8c3e2e7ae3b9c.js
+│    ├── css
+│    │  └── 1611180b829d8326.css
+│    ├── KQK8aqLSvbstpgtXBnvmU
+│    │  ├── _buildManifest.js
+│    │  └── _ssgManifest.js
+│    └── media
+│      ├── 26a46d62cd723877-s.woff2
+│      ├── 55c55f0601d81cf3-s.woff2
+│      ├── 581909926a08bbc8-s.woff2
+│      ├── 6d93bde91c0c2823-s.woff2
+│      ├── 97e0cb1ae144a2a9-s.woff2
+│      ├── a34f9d1faa5f3315-s.p.woff2
+│      └── df0a9ae256c0569c-s.woff2
+├── 404.html
+├── about.html
+├── about.txt
+├── blog-details.html
+├── blog-details.txt
+├── blog-sidebar.html
+├── blog-sidebar.txt
+├── blog.html
+├── blog.txt
+├── contact.html
+├── contact.txt
+├── error.html
+├── error.txt
+├── favicon.ico
+├── images
+│  ├── 404.svg
+│  ├── about
+│  │  ├── about-image-2-dark.svg
+│  │  ├── about-image-2.svg
+│  │  ├── about-image-dark.svg
+│  │  └── about-image.svg
+│  ├── blog
+│  │  ├── author-01.png
+│  │  ├── author-02.png
+│  │  ├── author-03.png
+│  │  ├── blog-01.jpg
+│  │  ├── blog-02.jpg
+│  │  ├── blog-03.jpg
+│  │  ├── blog-details-01.jpg
+│  │  ├── blog-details-02.jpg
+│  │  ├── post-01.jpg
+│  │  ├── post-02.jpg
+│  │  └── post-03.jpg
+│  ├── brands
+│  │  ├── formbold-light.svg
+│  │  ├── formbold.svg
+│  │  ├── graygrids-light.svg
+│  │  ├── graygrids.svg
+│  │  ├── lineicons-light.svg
+│  │  ├── lineicons.svg
+│  │  ├── plainadmin-light.svg
+│  │  ├── plainadmin.svg
+│  │  ├── tailadmin-light.svg
+│  │  ├── tailadmin.svg
+│  │  ├── tailgrids-light.svg
+│  │  ├── tailgrids.svg
+│  │  ├── uideck-light.svg
+│  │  └── uideck.svg
+│  ├── favicon.png
+│  ├── hero
+│  │  ├── shape-01.svg
+│  │  └── shape-02.svg
+│  ├── logo
+│  │  ├── logo-2.svg
+│  │  └── logo.svg
+│  ├── testimonials
+│  │  ├── auth-01.png
+│  │  ├── auth-02.png
+│  │  ├── auth-03.png
+│  │  ├── author-01.png
+│  │  ├── author-02.png
+│  │  └── author-03.png
+│  └── video
+│    ├── home-about1.jpg
+│    ├── home-about2.jpg
+│    ├── shape.svg
+│    ├── video.jpg
+│    └── website-analysis.gif
+├── index.html
+├── index.txt
+├── signin.html
+├── signin.txt
+├── signup.html
+└── signup.txt
